@@ -1,0 +1,45 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Oswald', sans-serif;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    line-height: 1;
+  }
+  h2 {
+    font-size: 40px;
+    text-align: center;
+    line-height: 0.005;
+  }
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #ecbe17;
+  }
+  body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #fdfcfb;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  h1 {
+    margin: 0 auto;
+    padding: 10px 0;
+    color: #ecbe17;
+    text-shadow: 3px 3px 1px black;
+  }
+  h2 {
+      margin: 0 auto;
+      padding: 40px 0;
+      color:#ecbe17;
+      text-shadow: 3px 3px 1px black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
